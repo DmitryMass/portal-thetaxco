@@ -19,6 +19,7 @@ View from Admin side:
 ![DESKTOP!](./assets/admin-activity.png)
 ![DESKTOP!](./assets/admin-client.png)
 ![DESKTOP!](./assets/admin-add-task.png)
+![DESKTOP!](./assets/admin-fast-status.png)
 ![DESKTOP!](./assets/admin-task.png)
 ![DESKTOP!](./assets/admin-tasklist.png)
 
