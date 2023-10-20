@@ -14,16 +14,7 @@ Backend part (Nest.js / MongoDB (mongoose) / TypeScript / Nest-cron / Mailgun / 
 
 A closed-type portal. You can preview some parts:
 
-View from Admin side:
-
+![DESKTOP!](./assets/sign-in.png)
 ![DESKTOP!](./assets/admin-activity.png)
-![DESKTOP!](./assets/admin-client.png)
-![DESKTOP!](./assets/admin-add-task.png)
-![DESKTOP!](./assets/admin-fast-status.png)
+![DESKTOP!](./assets/admin-clients.png)
 ![DESKTOP!](./assets/admin-task.png)
-![DESKTOP!](./assets/admin-tasklist.png)
-
-View from Client side:
-
-![DESKTOP!](./assets/client-tasklist.png)
-![DESKTOP!](./assets/client-fast-response.png)
